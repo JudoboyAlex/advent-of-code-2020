@@ -1,0 +1,23 @@
+{
+  "name": "advent-of-code-2020",
+  "version": "1.0.0",
+  "description": "advent-of-code-2020",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^14.14.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JudoboyAlex/advent-of-code-2020.git"
+  },
+  "author": "Alexander G. Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JudoboyAlex/advent-of-code-2020/issues"
+  },
+  "homepage": "https://github.com/JudoboyAlex/advent-of-code-2020#readme"
+}
