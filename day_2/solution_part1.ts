@@ -1,6 +1,7 @@
 var fs = require('fs');
 var textByLine = fs.readFileSync('data.txt').toString().split("\n");
 
+// Part 1
 const validPassword = (data: string[]):number => {
   let count = 0;
   for(let i = 0; i < data.length; i++ ){
